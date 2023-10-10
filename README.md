@@ -19,7 +19,7 @@ My Portfolio is built using Next.js and Tailwind CSS for a modern design and rap
 
 Here are the steps to run the portfolio locally.
 
-1. Fork [this](https://github.com/chahedmoetaz/My-Portfolio) repository.
+1. Fork [this](https://github.com/chahedmoetaz/portfolio) repository.
 
 2. Clone your forked copy of the repo
 
@@ -46,12 +46,12 @@ Here are the steps to run the portfolio locally.
 
 > **Note**: `SENDGRID_API_KEY` - Create an API key from "Settings" -> "API Keys" with "Restricted Access" to only "Mail Send"
 
-1. Update the sample [data.json](https://github.com/chahedmoetaz/My-Portfolio/blob/main/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
+1. Update the sample [data.json](https://github.com/chahedmoetaz/portfolio/blob/main/data.json) provided, with your data or directly import the same and edit using firebase later. (For storing images you can use [Cloudinary](https://cloudinary.com) or [Firebase Storage](https://firebase.google.com/docs/storage))
 
 2. Import json data
 
    - Go to [Firebase Console](https://console.firebase.google.com) and select your project
-   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/chahedmoetaz/My-Portfolio/blob/main/data.json) file
+   - Go to "Database" -> "Realtime Database" -> "Import JSON" and import the [data.json](https://github.com/chahedmoetaz/portfolio/blob/main/data.json) file
 
 3. Run the project
 
