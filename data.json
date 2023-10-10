@@ -1,0 +1,267 @@
+{
+  "about": {
+    "about": "I'm a full-time freelance Flutter mobile application developer and a computer science graduate experienced in building high-quality mobile applications. Besides my primary focus in Android and Ios development, I do server-side backend work including database administration which means I can handle the entire project, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects.",
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "callUrl": "",
+    "resumeUrl": "https://drive.google.com/file/d/1sKGpep8WWiAWki5o0kko7Nly8IZbx8X3/view?usp=share_link",
+    "title": "Mobile Developer"
+  },
+  "educations": [
+    {
+      "degree": "Secondary School",
+      "duration": "2012 - 2016",
+      "institute": "High School of Hammam Sousse | HS1"
+    },
+    {
+      "degree": "Bachelor In Computer Science",
+      "desc": [
+        "Graduated Project: Complete Real Estate Platform for Android and iOS",
+        "Worked on web application development using FLUTTER for Android and Ios, designing a database system using Firebase",
+        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies"
+      ],
+      "duration": "2016 - 2020",
+      "institute": "Higher Institute of Computer Science and Communication Technologies | ISITCOM"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Whitecape",
+      "desc": [
+        "Good Plans Web Application Assisted with design and development",
+        "Worked on building the product from scratch and Collaborated with the development team",
+        "Skills: HTML · CSS · JavaScript · TailwindCSS · Angular 8 · Firebase · Cloud Firestore · Figma"
+      ],
+      "duration": "September 20219 - October 2019",
+      "position": "Frontend Developer Summer Internship"
+    },
+    {
+      "company": "Joblab",
+      "desc": [
+        "Building and maintenance of applications",
+        "Slicing design from Figma to code and Optimizing application performance for better speed and responsiveness",
+        "Skills: Flutter · Dart  · Android · Ios · REST APIs"
+      ],
+      "duration": "October 2020 - December 2020",
+      "position": "Flutter Developer"
+    },
+    {
+      "company": "ProxiWeb",
+      "desc": [
+        "Designing attractive and user-friendly interfaces",
+        "Work with APIs to fetch and send data to and from mobile applications",
+        "Skills: Flutter · Dart  · Android · Ios · REST APIs · Figma "
+      ],
+      "duration": "December 2021 - March 2022",
+      "position": "Flutter Developer"
+    },
+    {
+      "company": "Upwork",
+      "desc": [
+        "Database administration and website design and Optimize app performance for better speed and responsiveness",
+        "Testing and debugging mobile applications to ensure smooth performance and identify and fix issues",
+        "Skills: Android SDK · iOS SDK · Flutter · React Native · Android Studio · Xcode · Visual Studio"
+      ],
+      "duration": "April 2022 - Present",
+      "position": "Mobile And Web Developer"
+    }
+  ],
+  "main": {
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "name": "Moetaz Jaballah Dit chahed",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/flutter.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ],
+    "titles": [
+      "Mobile Development",
+      "Frontend Development",
+      "Backend Development"
+    ]
+  },
+  "projects": [
+    {
+      "category": "Mobile",
+      "image": "https://instamobile.io/wp-content/uploads/2020/07/ubereats-clone-react-native.png",
+      "links": {
+        "code": "https://github.com/chahedmoetaz/Clone-ubereats",
+        "video": "https://drive.google.com/file/d/17Ysva1AHlnbPSNG6mYai9pdav2jM6YwF/view?usp=share_link",
+        "visit": "https://www.upwork.com/services/product/development-it-mobile-uber-eats-with-admin-panel-and-3-app-for-android-and-ios-1369862261596536832?ref=project_share"
+      },
+      "name": "UberEats Clone",
+      "techstack": "Android, Ios, React Native, JavaScript, Firebase, Google Maps, Socket.io"
+    },
+    {
+      "category": "Mobile",
+      "image": "https://upwork-usw2-prod-agora-file-storage.s3.us-west-2.amazonaws.com/profile/portfolio/thumbnail/1337b19a5cb38d55840f00bf68ea5742?response-content-disposition=inline;+filename=%22image_large%22;+filename*=utf-8%27%27image_large&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEM7//////////wEaCXVzLXdlc3QtMiJIMEYCIQDuWrMfKQduT%2BNMsVp%2BDAKCTbcXboZQR2F5Ygbbm7yesgIhAKR9StlrUg8AuITmTMFJt/9UA2P2f6fVTC/s6Q8GWpSGKtYECNf//////////wEQABoMNzM5OTM5MTczODE5Igxg0jR84C7ysrYoY5EqqgQf5En3cBRyqfTHY/JeJgCHKoV5gMt87zUNlPWIMfAjuYzIo7zrggiHmzTEYXMjzTI9hPaP0dTPS0od9%2BNL/MkZTQqFnIr%2B%2BzE/kwubUmamudeoeuKwXzMKheAGfyvAERsamFCN5B22moaqJly%2B/Zjrjj3v0X/NrZoQjfbB8x265nsdPAXgDtvu4yI7uHdlBdZlPSyfYdEAmNnpmLQQgvOep6zdtzDTMPBbVtb4IOVO5jZVpr4IIlWAFd21SHu%2BOWkbymcqwFBLLLbhlpxXMul9nNJlX1NjLBrFexRXNpDK15vuBKAS8doP1H/Sele9htZGpLalQOz4g4Qzcq4uvVrtLbagM7jygvWjYtTmV9obhEIHruQWZJbrcGTansO2YCw34ItDe66sG6vBK%2BBKdAxW4x9ezl2PxZ0ol%2Bd%2B1cioyme1YORGBam6SRNGi3IuFCwRjvFXBB%2B%2B6tJnuLXGGZHdGloPOSd2b5GcFOoPhjssRLneWa7itu1FjgndwKIuaVCMvrzCHuW2e6JujDwuXR7nM4/xv18vJ1iEdp%2BwbR6TkfxdHzyPE03%2BPIkYOoRdZaAEKiTPpaJGATuaRuU1gdHOt8uyrOQxFDPhOrRakZHZgFEQDU4G7zxnqoq/ADVw6S/F95SoZiypAvxYbQlwrkQ/xLjw7KCFkvoYjxzwzwQ3MJv4PyEgzCjAXZh6j4DoQ4A2mlwoUlW7R6tuFU%2ByPqjIqj5eLspjgvcelTDysZWpBjqmAY4yL4S8AOn46VFOQecc5TKsk/Jf4ryK9Cv7Rh8qC796NEWZhml7yogSpvzW0Esfbki9yxhXxJjk6cTcLgtQOJpa8j50IlS0MEeH3RYe2QIJmeDHcb9xedHGpFKKSPMXv00HibOnkqzxDZUNU8evcTSr8dwDf7Vcua3p7kQkmXvjsEaTckAA3W5PnDuoFgIQ8uzEfK/EzyctbsxkXl6fZlPgM1nIaQc=&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231010T151352Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIA2YR6PYW52JPP7TNK/20231010/us-west-2/s3/aws4_request&X-Amz-Signature=b74229edbe521b142567aaf2e51ec4fa78e5220f2af0b90781b0e075af8e4d4b",
+      "links": {
+        "code": "https://github.com/chahedmoetaz/LADEstate",
+        "video": "",
+        "visit": ""
+      },
+      "name": "LADEstate Customer Real estate application in Dubai",
+      "techstack": "Flutter, Dart, Rest API, Postman"
+    },
+    {
+      "category": "web",
+      "image": "https://instamobile.io/wp-content/uploads/2021/03/Screen-Shot-2021-03-10-at-12.00.40-PM-1.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      },
+      "name": "Admin Dashboard for React Native UberEats App",
+      "techstack": "React Js, JavaScript, CSS, HTML Node Js, Firebase, SendGrid, Socket.io"
+    },
+    {
+      "category": "Mobile",
+      "image": "https://play-lh.googleusercontent.com/3ZHQkOCNAsG-vCmXGtSmDYJFFGZkqGQgnuBsBulwJ6FthSDES4LMg0Lm05_O5uRerLs=w480-h960",
+      "links": {
+        "code": "https://github.com/chahedmoetaz/Venven",
+        "video": "",
+        "visit": "https://play.google.com/store/apps/details?id=com.venven.grocery"
+      },
+      "name": "Venven Grocery Delivery App",
+      "techstack": "Flutter, Dart, Android, Ios, Django, Rest API, Postman, Firebase"
+    },
+    {
+      "category": "Mobile",
+      "image": "https://play-lh.googleusercontent.com/xTKM_QrCkIaOQlE-9UcWECk7ADdA9VpJU_miTg30oZZFnrfSy3uNMwK8j78xonxavM8=w480-h960",
+      "links": {
+        "code": "https://github.com/chahedmoetaz/Grocery-Store",
+        "video": "",
+        "visit": "https://play.google.com/store/apps/details?id=com.melfirma.grocery"
+      },
+      "name": "Melfirma Grocery App",
+      "techstack": "Flutter, Dart, Android, Ios, Django, Rest API, Postman, Firebase"
+    },
+    {
+      "category": "Mobile",
+      "image": "https://github.com/chahedmoetaz/Ekry.tn/blob/main/1.png?raw=true",
+      "links": {
+        "code": "https://github.com/chahedmoetaz/Ekry.tn",
+        "video": "",
+        "visit": "https://drive.google.com/file/d/1rks1l5wyLcNq7LLschhYSjxZImToPEFs/view?usp=share_link"
+      },
+      "name": "Ekry.tn Customer Real estate application in Tunisia",
+      "techstack": "Flutter, Dart, Android, Ios, Firebase, Google Maps"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "name": "JavaScript"
+    },
+    {
+      "category": "Backend",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "name": "Firebase"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "name": "GitHub"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/color/100/android-studio--v3.png",
+      "name": "Android Studio"
+    },
+    {
+      "category": "Backend",
+      "image": "https://img.icons8.com/fluency/144/laravel.png",
+      "name": "Laravel"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/color/144/dart.png",
+      "name": "Dart"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/color/144/typescript.png",
+      "name": "TypeScript"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/color/144/visual-studio-code-2019.png",
+      "name": "Visual Studio"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/color/144/xcode.png",
+      "name": "Xcode"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/fluency/144/angularjs.png",
+      "name": "Angular"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/fluency/144/nextjs.png",
+      "name": "NextJs"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/pulsar-color/144/postman-api.png",
+      "name": "Postman"
+    },
+    {
+      "category": "Backend",
+      "image": "https://img.icons8.com/color/144/django.png",
+      "name": "Django"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/color/144/python--v1.png",
+      "name": "Python"
+    },
+    {
+      "category": "Tools",
+      "image": "https://img.icons8.com/color/144/nodejs.png",
+      "name": "Node Js"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/color/144/react-native.png",
+      "name": "React Js"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/ios/150/react-native--v1.png",
+      "name": "React Native"
+    },
+    {
+      "category": "Frontend",
+      "image": "https://img.icons8.com/color/144/flutter.png",
+      "name": "Flutter"
+    }
+  ],
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/moetazchahed"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "http://github.com/chahedmoetaz"
+    },
+    {
+      "icon": "FaPhone",
+      "link": "https://wa.me/0021654120687"
+    },
+    {
+      "icon": "FaLink",
+      "link": "https://www.upwork.com/freelancers/~0128c8fdf4ee06daca"
+    },
+    {
+      "icon": "FaLink",
+      "link": "https://www.fiverr.com/chahedmoetaz?up_rollout=true"
+    }
+  ]
+}
