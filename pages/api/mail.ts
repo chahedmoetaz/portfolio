@@ -1,7 +1,12 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import sgMail from "@sendgrid/mail";
+import { NextResponse } from "next/server";
+import { Resend } from 'resend';
 
-sgMail.setApiKey(process.env.SENDGRID_API_KEY || '');
+
+const resend = new Resend(process.env.RESEND_API_KEY || '');
+
+//resend.apiKeys.create({ name: 'Production' });
+//sgMail.setApiKey(process.env.RESEND_API_KEY || '');
 
 type Data = {
     message: string;
@@ -26,7 +31,7 @@ export default async function handler(
             html: msg.replace(/\r\n/g, "<br>"),
         };
         try {
-            await sgMail.send(data);
+             await resend.emails.send(data);
             res.status(200).json({ message: "Your message was sent successfully." });
         } catch (err) {
             res.status(500).json({ message: `There was an error sending your message. ${err}` });
