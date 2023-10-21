@@ -32,6 +32,7 @@ export default async function handler(
         };
         try {
              await resend.emails.send(data);
+             console.log(res);
             res.status(200).json({ message: "Your message was sent successfully." });
         } catch (err) {
             res.status(500).json({ message: `There was an error sending your message. ${err}` });
